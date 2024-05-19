@@ -1,5 +1,5 @@
 # elec1005-app-repo
-Getting familiar with Github and Git and utilising it for our assignment.
+Getting familiar with Git and utilising it for our assignment.
 We will be uploading files related to the assignment and screenshots of our app and different aspects of it to document the development process.
 
 Group Members:
